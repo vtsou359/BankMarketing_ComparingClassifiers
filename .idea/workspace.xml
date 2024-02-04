@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="792074d3-c076-484c-a724-1bf121285e74" name="Changes" comment="Updating Files" />
+    <list default="true" id="792074d3-c076-484c-a724-1bf121285e74" name="Changes" comment="Updating Files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,13 +45,14 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f630212fe81e-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.11799.285" />
+        <option value="bundled-python-sdk-644f0765d120-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.14015.111" />
       </set>
     </attachedChunks>
   </component>
