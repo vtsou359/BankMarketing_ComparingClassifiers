@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="792074d3-c076-484c-a724-1bf121285e74" name="Changes" comment="Updating Files">
-      <change afterPath="$PROJECT_DIR$/images/CM_DT_OH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/CM_LR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/CRISP-DM.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DT_OH_pipe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/LR_pipe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ROC_AUC_finalmodels.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bank_marketing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bank_marketing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
