@@ -221,11 +221,11 @@ The best parameters of the Decision Tree model (using One Hot Encoder in the pre
 
 **Confusion Matrix of final Logistic Regression model:**
 
-<img src="./images/CM_LR.png" height="300">
+<img src="./images/cmLR.png" height="300">
 
 **Confusion Matrix of final Decision Tree model:**
 
-<img src="./images/CM_DT_OH.png" height="300">
+<img src="./images/cmDT.png" height="300">
 
 
 
